@@ -1,0 +1,2 @@
+defmodule Deque do
+end
